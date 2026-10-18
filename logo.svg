@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="Bezel Deal">
+  <g transform="translate(32 32)">
+    <circle r="27" fill="none" stroke="#c8a24a" stroke-width="5"/>
+    <g stroke="#c8a24a" stroke-width="2">
+      <line y1="-27" y2="-21"/><line y1="27" y2="21"/><line x1="-27" x2="-21"/><line x1="27" x2="21"/>
+    </g>
+    <path d="M0 -24 l4 6 h-8z" fill="#c8a24a"/>
+    <circle r="16" fill="#0f1b2d"/>
+    <line x1="0" y1="0" x2="0" y2="-11" stroke="#f4efe4" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="8" y2="4" stroke="#f4efe4" stroke-width="2.5" stroke-linecap="round"/>
+    <circle r="2" fill="#c8a24a"/>
+  </g>
+  <text x="74" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#0f1b2d" letter-spacing="1">Bezel <tspan fill="#a8842f" font-style="italic">Deal</tspan></text>
+</svg>
