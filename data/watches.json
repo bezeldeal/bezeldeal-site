@@ -1,0 +1,890 @@
+[
+ {
+  "brand": "Rolex",
+  "model": "Submariner",
+  "references": [
+   "124060",
+   "126610LN"
+  ],
+  "launch_year": "1953",
+  "case": "41 mm Oystersteel",
+  "movement": "Calibre 3230 (no-date) / 3235 (date), automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$10,050 (124060); $11,350 (126610LN)",
+  "history": "Introduced in 1953 as Rolex's first divers' wristwatch, the Submariner was waterproof to 100 m at launch and set the template for the modern dive watch.",
+  "highlights": [
+   "Unidirectional rotatable Cerachrom bezel",
+   "Glidelock bracelet extension",
+   "Superlative Chronometer certification"
+  ],
+  "fun_fact": "Sean Connery wore a Submariner (ref. 6538) as James Bond in Dr. No (1962).",
+  "image": "",
+  "slug": "rolex-submariner"
+ },
+ {
+  "brand": "Rolex",
+  "model": "GMT-Master II",
+  "references": [
+   "126710BLNR",
+   "126710GRNR"
+  ],
+  "launch_year": "1955 (GMT-Master)",
+  "case": "40 mm Oystersteel",
+  "movement": "Calibre 3285, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$12,000 (126710BLNR / GRNR on Jubilee)",
+  "history": "Launched in 1955 for airline pilots, including those of Pan Am, the GMT-Master tracked a second time zone with a 24-hour hand and two-tone bezel.",
+  "highlights": [
+   "Independently adjustable hour hand",
+   "Two-colour Cerachrom bezel",
+   "Jubilee or Oyster bracelet"
+  ],
+  "fun_fact": "The red-and-blue bezel became known as \"Pepsi\"; the blue-and-black version introduced in 2013 is nicknamed \"Batman\".",
+  "image": "",
+  "slug": "rolex-gmt-master-ii"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Cosmograph Daytona",
+  "references": [
+   "126500LN"
+  ],
+  "launch_year": "1963",
+  "case": "40 mm Oystersteel",
+  "movement": "Calibre 4131, automatic chronograph",
+  "power_reserve": "72 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$16,900 (126500LN)",
+  "history": "Launched in 1963 and named for Daytona Beach racing, the Cosmograph is Rolex's chronograph with a tachymeter bezel for measuring average speed.",
+  "highlights": [
+   "Black Cerachrom tachymeter bezel",
+   "Screw-down chronograph pushers",
+   "In-house chronograph movement"
+  ],
+  "fun_fact": "Paul Newman's own Daytona (ref. 6239) sold for $17,752,500 at Phillips in October 2017.",
+  "image": "",
+  "slug": "rolex-cosmograph-daytona"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Datejust 41",
+  "references": [
+   "126300",
+   "126334"
+  ],
+  "launch_year": "1945 (Datejust)",
+  "case": "41 mm Oystersteel (126300)",
+  "movement": "Calibre 3235, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$8,950 (126300)",
+  "history": "Launched in 1945 for Rolex's 40th anniversary, the Datejust was the first self-winding chronometer wristwatch to show the date in a window at 3 o'clock.",
+  "highlights": [
+   "Cyclops magnifying lens over the date",
+   "Smooth or fluted bezel options",
+   "Oyster or Jubilee bracelet"
+  ],
+  "fun_fact": "The Jubilee bracelet was designed specifically for the Datejust's 1945 debut.",
+  "image": "",
+  "slug": "rolex-datejust-41"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Explorer",
+  "references": [
+   "124270"
+  ],
+  "launch_year": "1953",
+  "case": "36 mm Oystersteel",
+  "movement": "Calibre 3230, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$7,900 (124270)",
+  "history": "Launched in 1953 following Hillary and Norgay's first ascent of Everest, the Explorer is Rolex's purist three-hand tool watch with its 3-6-9 dial.",
+  "highlights": [
+   "Chromalight luminous 3-6-9 numerals",
+   "Twinlock screw-down crown",
+   "Superlative Chronometer, ±2 s/day"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-explorer"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Oyster Perpetual 41",
+  "references": [
+   "124300 (2020-2025)",
+   "current OP 41"
+  ],
+  "launch_year": "1926 (Oyster case)",
+  "case": "41 mm Oystersteel",
+  "movement": "Calibre 3230, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$7,050 (current OP 41, Oystersteel)",
+  "history": "The Oyster Perpetual descends from the 1926 Oyster, marketed as the first waterproof wristwatch case, and the 1931 Perpetual rotor.",
+  "highlights": [
+   "Wide range of coloured dials",
+   "Simple time-only layout",
+   "Oyster bracelet with Oysterclasp"
+  ],
+  "fun_fact": "In 1927 swimmer Mercedes Gleitze wore a Rolex Oyster for more than 10 hours during a Channel swim, and it kept working.",
+  "image": "",
+  "slug": "rolex-oyster-perpetual-41"
+ },
+ {
+  "brand": "Omega",
+  "model": "Speedmaster Moonwatch Professional",
+  "references": [
+   "310.30.42.50.01.001",
+   "310.30.42.50.01.002"
+  ],
+  "launch_year": "1957",
+  "case": "42 mm stainless steel",
+  "movement": "Calibre 3861, manual-wind chronograph (Master Chronometer)",
+  "power_reserve": "50 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$7,800 (.001, hesalite, bracelet); $9,000 (.002, sapphire, bracelet)",
+  "history": "Launched in 1957 and qualified by NASA for all manned missions in 1965, the Speedmaster was worn on the Moon during Apollo 11 in 1969.",
+  "highlights": [
+   "Hand-wound co-axial chronograph",
+   "Hesalite or sapphire crystal",
+   "Asymmetric case with crown guards"
+  ],
+  "fun_fact": "During Apollo 13, Jack Swigert used his Speedmaster to time a critical 14-second engine burn for the return to Earth.",
+  "image": "../img/omega-speedmaster-310.webp",
+  "slug": "omega-speedmaster-moonwatch-professional"
+ },
+ {
+  "brand": "Omega",
+  "model": "Seamaster Diver 300M",
+  "references": [
+   "210.30.42.20.01.001"
+  ],
+  "launch_year": "1993",
+  "case": "42 mm stainless steel",
+  "movement": "Calibre 8800, automatic (Master Chronometer)",
+  "power_reserve": "55 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$6,700 (steel bracelet); $6,300 (rubber)",
+  "history": "Launched in 1993, the Diver 300M became famous as James Bond's watch from GoldenEye (1995) onward.",
+  "highlights": [
+   "Laser-engraved wave dial",
+   "Ceramic bezel",
+   "Helium escape valve"
+  ],
+  "fun_fact": "Pierce Brosnan wore a Seamaster Diver 300M as Bond in GoldenEye (1995), starting Omega's run as 007's watch.",
+  "image": "",
+  "slug": "omega-seamaster-diver-300m"
+ },
+ {
+  "brand": "Omega",
+  "model": "Seamaster Aqua Terra 150M",
+  "references": [
+   "220.10.41.21.01.001",
+   "220.10.41.21.10.001"
+  ],
+  "launch_year": "2002",
+  "case": "41 mm stainless steel",
+  "movement": "Calibre 8900, automatic (Master Chronometer)",
+  "power_reserve": "60 hours",
+  "water_resistance": "150 m",
+  "us_retail_price": "$7,400 (41 mm steel on steel, Omega US)",
+  "history": "The Aqua Terra arrived in 2002 as the dressier, everyday member of the Seamaster family.",
+  "highlights": [
+   "Teak-pattern dial with vertical lines",
+   "Co-axial Master Chronometer movement",
+   "Display caseback"
+  ],
+  "fun_fact": "The 'teak concept' dial, introduced in 2008, evokes the wooden decks of luxury yachts.",
+  "image": "../img/omega-aqua-terra-220.webp",
+  "slug": "omega-seamaster-aqua-terra-150m"
+ },
+ {
+  "brand": "Omega",
+  "model": "Seamaster Planet Ocean 600M",
+  "references": [
+   "215.30.44.21.01.001 (discontinued)"
+  ],
+  "launch_year": "2005",
+  "case": "43.5 mm stainless steel",
+  "movement": "Calibre 8900, automatic (Master Chronometer)",
+  "power_reserve": "60 hours",
+  "water_resistance": "600 m",
+  "us_retail_price": "",
+  "history": "The Planet Ocean joined the Seamaster line in 2005 as Omega's heavier-duty professional dive watch.",
+  "highlights": [
+   "600 m water resistance",
+   "Helium escape valve",
+   "Rotating dive bezel"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-seamaster-planet-ocean-600m"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay 41",
+  "references": [
+   "M7941A1A0RU-0001"
+  ],
+  "launch_year": "2012 (Black Bay)",
+  "case": "41 mm stainless steel",
+  "movement": "Calibre MT5602-U, automatic (Master Chronometer)",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,325 (M7941A1A0RU-0001)",
+  "history": "The Black Bay debuted in 2012, drawing on Tudor's 1950s Submariner-era divers and kick-starting the brand's revival.",
+  "highlights": [
+   "Snowflake hands",
+   "Burgundy aluminium bezel",
+   "METAS-certified Master Chronometer"
+  ],
+  "fun_fact": "Tudor's name was registered in 1926 by Rolex founder Hans Wilsdorf.",
+  "image": "../img/tudor-black-bay-m7941.webp",
+  "slug": "tudor-black-bay-41"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay 58",
+  "references": [
+   "M7939A1A0RU-0001"
+  ],
+  "launch_year": "2018",
+  "case": "39 mm stainless steel",
+  "movement": "Calibre MT5400-U, automatic (COSC + METAS)",
+  "power_reserve": "65 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "From $4,975 (rubber); $5,225–$5,350 on bracelet",
+  "history": "Released in 2018, the Black Bay 58 is named for 1958, the year of Tudor's first 200 m dive watch, the 'Big Crown' ref. 7924.",
+  "highlights": [
+   "Slim 39 mm case",
+   "Gilt dial details",
+   "Riveted-style bracelet"
+  ],
+  "fun_fact": "The '58' refers to 1958, the year of Tudor's ref. 7924 'Big Crown' diver.",
+  "image": "",
+  "slug": "tudor-black-bay-58"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay Pro",
+  "references": [
+   "M79470-0001"
+  ],
+  "launch_year": "2022",
+  "case": "39 mm stainless steel",
+  "movement": "Calibre MT5652, automatic GMT",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,075 (M79470-0001)",
+  "history": "Launched in 2022, the Black Bay Pro is a 39 mm fixed-bezel GMT drawing on Tudor's 1950s professional-watch heritage.",
+  "highlights": [
+   "Fixed 24-hour steel bezel",
+   "Yellow GMT hand",
+   "Snowflake hands"
+  ],
+  "fun_fact": "",
+  "image": "../img/tudor-black-bay-pro-m79470.webp",
+  "slug": "tudor-black-bay-pro"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Pelagos 39",
+  "references": [
+   "25407N"
+  ],
+  "launch_year": "2022",
+  "case": "39 mm titanium",
+  "movement": "Calibre MT5400, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,625 (25407N)",
+  "history": "The Pelagos line launched in 2012 as Tudor's technical titanium diver; the smaller Pelagos 39 followed in 2022.",
+  "highlights": [
+   "Grade 2 titanium case and bracelet",
+   "Rubber strap included",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-pelagos-39"
+ },
+ {
+  "brand": "Grand Seiko",
+  "model": "Heritage Collection 'Snowflake'",
+  "references": [
+   "SBGA211"
+  ],
+  "launch_year": "2017 as SBGA211 (Snowflake dial since 2005)",
+  "case": "41 mm high-intensity titanium",
+  "movement": "Calibre 9R65 Spring Drive, automatic",
+  "power_reserve": "72 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$6,900",
+  "history": "The Snowflake first appeared in 2005; when Grand Seiko became a standalone brand in 2017 it was reissued as the SBGA211, with a dial evoking wind-carved snow on the Hotaka mountains seen from the Shinshu Watch Studio.",
+  "highlights": [
+   "Spring Drive glide-motion seconds hand",
+   "Lightweight titanium case",
+   "Zaratsu-polished surfaces"
+  ],
+  "fun_fact": "",
+  "image": "../img/grand-seiko-sbga211.webp",
+  "slug": "grand-seiko-heritage-collection-snowflake"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Prospex Alpinist",
+  "references": [
+   "SPB121"
+  ],
+  "launch_year": "1959 (Alpinist)",
+  "case": "39.5 mm stainless steel",
+  "movement": "Calibre 6R35, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "",
+  "history": "Seiko's Laurel Alpinist launched in 1959 for Japan's mountaineering boom.",
+  "highlights": [
+   "Internal rotating compass bezel",
+   "Cathedral hands",
+   "Sapphire crystal"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-prospex-alpinist"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Prospex 'Turtle'",
+  "references": [
+   "SRPE93"
+  ],
+  "launch_year": "1976 (original 6309)",
+  "case": "45 mm stainless steel",
+  "movement": "Calibre 4R36, automatic",
+  "power_reserve": "41 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$525 (SRPE93)",
+  "history": "The cushion-cased 'Turtle' revives Seiko's 1976 6309 diver, a favourite of divers and collectors.",
+  "highlights": [
+   "Cushion case shape",
+   "Unidirectional dive bezel",
+   "Day-date display"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-prospex-turtle"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Santos de Cartier",
+  "references": [
+   "WSSA0029"
+  ],
+  "launch_year": "1904",
+  "case": "35.1 x 41.9 mm steel (medium)",
+  "movement": "Calibre 1847 MC, automatic",
+  "power_reserve": "Approx. 40 hours (Cartier)",
+  "water_resistance": "100 m",
+  "us_retail_price": "$7,750 (medium, steel)",
+  "history": "Louis Cartier created the Santos in 1904 for aviator Alberto Santos-Dumont, who needed to read the time in flight.",
+  "highlights": [
+   "QuickSwitch bracelet change",
+   "SmartLink sizing",
+   "Exposed screw bezel"
+  ],
+  "fun_fact": "It is often described as the first pilot's watch.",
+  "image": "",
+  "slug": "cartier-santos-de-cartier"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Tank Must",
+  "references": [
+   "WSTA0041"
+  ],
+  "launch_year": "1917 (Tank)",
+  "case": "33.7 x 25.5 mm steel (large)",
+  "movement": "High-autonomy quartz",
+  "power_reserve": "",
+  "water_resistance": "30 m",
+  "us_retail_price": "",
+  "history": "The Tank prototype of 1917 was inspired by the Renault tanks of the First World War; it entered production in 1919.",
+  "highlights": [
+   "Rectangular brancards",
+   "Blue cabochon crown",
+   "Roman numeral dial"
+  ],
+  "fun_fact": "The design dates to 1917, but it went on sale in 1919.",
+  "image": "",
+  "slug": "cartier-tank-must"
+ },
+ {
+  "brand": "Audemars Piguet",
+  "model": "Royal Oak Selfwinding",
+  "references": [
+   "15510ST"
+  ],
+  "launch_year": "1972",
+  "case": "41 mm stainless steel (15510ST)",
+  "movement": "Calibre 4302, automatic (15510ST)",
+  "power_reserve": "70 hours (15510ST)",
+  "water_resistance": "50 m",
+  "us_retail_price": "",
+  "history": "Designed by Gérald Genta and launched in 1972, the Royal Oak is the archetypal luxury steel sports watch with an integrated bracelet.",
+  "highlights": [
+   "Octagonal bezel with eight screws",
+   "Grande Tapisserie dial",
+   "Integrated bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "audemars-piguet-royal-oak-selfwinding"
+ },
+ {
+  "brand": "Patek Philippe",
+  "model": "Nautilus",
+  "references": [
+   "5811/1G-001",
+   "5711/1A (discontinued)"
+  ],
+  "launch_year": "1976",
+  "case": "41 mm white gold (5811/1G)",
+  "movement": "Calibre 26-330 S C, automatic",
+  "power_reserve": "35-45 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$82,021 (5811/1G-001)",
+  "history": "Gérald Genta's 1976 Nautilus, with its ship's-porthole-inspired case, became one of the most sought-after luxury sports watches.",
+  "highlights": [
+   "Horizontally embossed dial",
+   "Porthole-shaped case with 'ears'",
+   "Integrated bracelet"
+  ],
+  "fun_fact": "The steel ref. 5711 was discontinued in 2021.",
+  "image": "",
+  "slug": "patek-philippe-nautilus"
+ },
+ {
+  "brand": "Patek Philippe",
+  "model": "Aquanaut",
+  "references": [
+   "5167A-001"
+  ],
+  "launch_year": "1997",
+  "case": "40.8 mm stainless steel",
+  "movement": "Calibre 26-330 S C, automatic",
+  "power_reserve": "35-45 hours",
+  "water_resistance": "30 m (current Patek spec)",
+  "us_retail_price": "$27,257 (5167A-001)",
+  "history": "Introduced in 1997 as a younger, sportier relative of the Nautilus.",
+  "highlights": [
+   "Tropical composite strap",
+   "Checkerboard embossed dial",
+   "Rounded-octagon case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "patek-philippe-aquanaut"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Navitimer B01 Chronograph 43",
+  "references": [
+   "AB0138"
+  ],
+  "launch_year": "1952",
+  "case": "43 mm stainless steel",
+  "movement": "Breitling Manufacture Calibre 01, automatic chronograph",
+  "power_reserve": "70 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$10,300 (strap); $10,700 (bracelet)",
+  "history": "Launched in 1952 for the AOPA, the Navitimer put a circular slide rule on the bezel for pilots' flight calculations.",
+  "highlights": [
+   "Circular slide rule bezel",
+   "AOPA winged logo",
+   "COSC-certified chronograph"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-navitimer-b01-chronograph-43"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Superocean Heritage B20 Automatic 42",
+  "references": [
+   "AB2010"
+  ],
+  "launch_year": "1957 (Superocean)",
+  "case": "42 mm stainless steel",
+  "movement": "Breitling Calibre B20, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,800 (rubber); $6,100 (bracelet)",
+  "history": "The Superocean Heritage revives Breitling's 1957 Superocean dive watch.",
+  "highlights": [
+   "Mesh bracelet option",
+   "Ceramic bezel",
+   "Date display"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-superocean-heritage-b20-automatic-42"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Carrera Chronograph 39 Glassbox",
+  "references": [
+   "CBS2210"
+  ],
+  "launch_year": "1963",
+  "case": "39 mm stainless steel",
+  "movement": "Calibre TH20-00, automatic chronograph",
+  "power_reserve": "80 hours",
+  "water_resistance": "",
+  "us_retail_price": "$7,250 (CBS2210.FC6534)",
+  "history": "Jack Heuer launched the Carrera in 1963, named after the Carrera Panamericana road race.",
+  "highlights": [
+   "Domed 'Glassbox' sapphire crystal",
+   "In-house TH20-00 movement",
+   "Tachymeter on the flange"
+  ],
+  "fun_fact": "The race was the Carrera Panamericana, a 1950s Mexican road race.",
+  "image": "",
+  "slug": "tag-heuer-carrera-chronograph-39-glassbox"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Monaco",
+  "references": [
+   "CBL2111"
+  ],
+  "launch_year": "1969",
+  "case": "39 mm stainless steel",
+  "movement": "Calibre TH20-00 (Heuer 02 family), automatic chronograph",
+  "power_reserve": "80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$8,300 (CBL2111.FC6453)",
+  "history": "Launched in 1969 with the Calibre 11, the Monaco was the first water-resistant square-cased automatic chronograph.",
+  "highlights": [
+   "Square case",
+   "In-house automatic chronograph",
+   "Blue dial"
+  ],
+  "fun_fact": "Steve McQueen wore a Monaco in the 1971 film Le Mans.",
+  "image": "",
+  "slug": "tag-heuer-monaco"
+ },
+ {
+  "brand": "IWC",
+  "model": "Portugieser Chronograph",
+  "references": [
+   "IW371605"
+  ],
+  "launch_year": "1939",
+  "case": "41 mm stainless steel",
+  "movement": "Calibre 69355, automatic chronograph",
+  "power_reserve": "46 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$9,200",
+  "history": "The Portugieser line began when Portuguese merchants asked IWC for a wristwatch with marine-chronometer accuracy, achieved with a large pocket-watch movement.",
+  "highlights": [
+   "Vertical chronograph sub-dial layout",
+   "Railway-track minute scale",
+   "Applied Arabic numerals"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-portugieser-chronograph"
+ },
+ {
+  "brand": "Zenith",
+  "model": "Chronomaster Sport",
+  "references": [
+   "03.3100.3600/69.M3100"
+  ],
+  "launch_year": "2021",
+  "case": "41 mm stainless steel",
+  "movement": "El Primero 3600, automatic chronograph",
+  "power_reserve": "60 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$12,300",
+  "history": "Launched in 2021, the Chronomaster Sport uses the El Primero, introduced in 1969 as one of the first automatic chronographs.",
+  "highlights": [
+   "1/10th-second chronograph",
+   "Ceramic bezel",
+   "Tri-colour sub-dials"
+  ],
+  "fun_fact": "Zenith employee Charles Vermot secretly kept El Primero tooling and plans after production stopped in 1975, enabling its 1984 revival.",
+  "image": "",
+  "slug": "zenith-chronomaster-sport"
+ },
+ {
+  "brand": "Jaeger-LeCoultre",
+  "model": "Reverso Tribute Small Seconds",
+  "references": [
+   "Q397848J",
+   "Q3978480"
+  ],
+  "launch_year": "1931",
+  "case": "45.6 x 27.4 mm stainless steel",
+  "movement": "Calibre 822/2, manual-wind",
+  "power_reserve": "42 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$12,000",
+  "history": "Created in 1931 for British polo players in India whose watch crystals kept breaking, the Reverso's case flips over to protect the dial.",
+  "highlights": [
+   "Swivelling reversible case",
+   "Art Deco gadroons",
+   "Engravable caseback"
+  ],
+  "fun_fact": "The name comes from the Latin for 'I turn around'.",
+  "image": "",
+  "slug": "jaeger-lecoultre-reverso-tribute-small-seconds"
+ },
+ {
+  "brand": "Panerai",
+  "model": "Luminor Marina",
+  "references": [
+   "PAM01312"
+  ],
+  "launch_year": "1949 (design)",
+  "case": "44 mm stainless steel",
+  "movement": "Calibre P.9010, automatic",
+  "power_reserve": "3 days",
+  "water_resistance": "300 m",
+  "us_retail_price": "$8,800",
+  "history": "Panerai supplied instruments to the Italian Navy; the Luminor takes its name from its luminous material, and its 1949 design introduced the crown-protecting bridge.",
+  "highlights": [
+   "Crown-protecting bridge",
+   "Sandwich dial",
+   "Small seconds at 9 o'clock"
+  ],
+  "fun_fact": "Sylvester Stallone wore a Luminor in Daylight (1996), raising Panerai's profile just before Vendôme acquired it in 1997.",
+  "image": "",
+  "slug": "panerai-luminor-marina"
+ },
+ {
+  "brand": "Tissot",
+  "model": "PRX Powermatic 80",
+  "references": [
+   "T137.407.11.041.00"
+  ],
+  "launch_year": "2021 (revival of 1978 PRX)",
+  "case": "40 mm stainless steel",
+  "movement": "Powermatic 80, automatic",
+  "power_reserve": "80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$850 (40 mm)",
+  "history": "The PRX revives a 1978 Tissot integrated-bracelet design; the automatic Powermatic 80 version arrived in 2021.",
+  "highlights": [
+   "Integrated bracelet",
+   "Waffle 'Clous de Paris' dial",
+   "80-hour automatic movement"
+  ],
+  "fun_fact": "PRX stands for Precise and Robust; the X refers to 10 bar water resistance.",
+  "image": "",
+  "slug": "tissot-prx-powermatic-80"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Khaki Field Mechanical",
+  "references": [
+   "H69439931"
+  ],
+  "launch_year": "",
+  "case": "38 mm stainless steel",
+  "movement": "Calibre H-50, manual-wind",
+  "power_reserve": "80 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$675 (38 mm)",
+  "history": "The Khaki Field Mechanical recreates Hamilton's field watches made to US military specification; Hamilton supplied watches to US forces in WWII and Vietnam.",
+  "highlights": [
+   "Hand-wound movement",
+   "Military-style 24-hour dial",
+   "Matte steel case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-khaki-field-mechanical"
+ },
+ {
+  "brand": "Longines",
+  "model": "Spirit Zulu Time",
+  "references": [
+   "L3.802.4.63.6"
+  ],
+  "launch_year": "2022",
+  "case": "39 mm stainless steel",
+  "movement": "Calibre L844.4, automatic GMT (COSC)",
+  "power_reserve": "72 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$3,550 (L3.802.4.63.6)",
+  "history": "Launched in 2022, the Spirit Zulu Time adds a GMT function to Longines' pilot-inspired Spirit line.",
+  "highlights": [
+   "True GMT with jumping local hour",
+   "Ceramic 24-hour bezel",
+   "Silicon balance spring"
+  ],
+  "fun_fact": "'Zulu' is aviation shorthand for UTC; Longines first used the Zulu Time name in 1925.",
+  "image": "",
+  "slug": "longines-spirit-zulu-time"
+ },
+ {
+  "brand": "Oris",
+  "model": "Aquis Date Calibre 400",
+  "references": [
+   "01 400 7769 4135-07 8 22 09PEB"
+  ],
+  "launch_year": "",
+  "case": "41.5 mm stainless steel",
+  "movement": "Oris Calibre 400, automatic",
+  "power_reserve": "120 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$3,900",
+  "history": "Oris introduced its in-house Calibre 400 in 2020 and fitted it to the Aquis diver.",
+  "highlights": [
+   "5-day power reserve",
+   "10-year warranty",
+   "Ceramic bezel insert"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "oris-aquis-date-calibre-400"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Sea-Dweller",
+  "references": [
+   "126600"
+  ],
+  "launch_year": "1967",
+  "case": "43 mm Oystersteel",
+  "movement": "Calibre 3235, automatic",
+  "power_reserve": "70 hours",
+  "water_resistance": "1,220 m",
+  "us_retail_price": "$14,550 (126600)",
+  "history": "Introduced in 1967 for professional saturation divers, the Sea-Dweller added a helium escape valve.",
+  "highlights": [
+   "Helium escape valve",
+   "1,220 m depth rating",
+   "Cyclops date lens"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-sea-dweller"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Chronomat B01 42",
+  "references": [
+   "AB0134"
+  ],
+  "launch_year": "1984 (modern Chronomat)",
+  "case": "42 mm stainless steel",
+  "movement": "Breitling Manufacture Calibre 01, automatic chronograph",
+  "power_reserve": "70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$9,550",
+  "history": "Breitling's modern Chronomat launched in 1984; the 2020 redesign restored the Rouleaux bracelet.",
+  "highlights": [
+   "Rouleaux bracelet",
+   "Rider tabs on the bezel",
+   "70-hour in-house chronograph"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-chronomat-b01-42"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Ballon Bleu de Cartier 40 mm",
+  "references": [
+   "WSBB0060"
+  ],
+  "launch_year": "2007",
+  "case": "40 mm steel",
+  "movement": "Calibre 1847 MC, automatic",
+  "power_reserve": "",
+  "water_resistance": "30 m",
+  "us_retail_price": "",
+  "history": "Launched in 2007, the Ballon Bleu is known for its rounded case and the blue cabochon crown set in a protective arc.",
+  "highlights": [
+   "Crown nested in a guard",
+   "Convex case",
+   "Guilloché dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "cartier-ballon-bleu-de-cartier-40-mm"
+ },
+ {
+  "brand": "Vacheron Constantin",
+  "model": "Overseas",
+  "references": [
+   "4520V/210A-B128"
+  ],
+  "launch_year": "1996",
+  "case": "41 mm stainless steel",
+  "movement": "Calibre 5100, automatic",
+  "power_reserve": "60 hours",
+  "water_resistance": "150 m",
+  "us_retail_price": "",
+  "history": "Introduced in 1996, the Overseas is Vacheron Constantin's luxury sports line, with a bezel inspired by the Maltese cross.",
+  "highlights": [
+   "Tool-free interchangeable straps",
+   "Maltese-cross bezel",
+   "Anti-magnetic inner case"
+  ],
+  "fun_fact": "Vacheron Constantin, founded in 1755, claims the longest uninterrupted watchmaking history.",
+  "image": "",
+  "slug": "vacheron-constantin-overseas"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Presage Cocktail Time",
+  "references": [
+   "SRPB43"
+  ],
+  "launch_year": "2010 (Cocktail Time, Japan)",
+  "case": "40.5 mm stainless steel",
+  "movement": "Calibre 4R35, automatic",
+  "power_reserve": "41 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "",
+  "history": "Cocktail Time began in 2010 as a collaboration with Tokyo bartender Shinobu Ishigaki of Bar Ishinohana, whose cocktails inspired the sunburst dials.",
+  "highlights": [
+   "Sunburst dial",
+   "Box-shaped Hardlex crystal",
+   "Exhibition caseback"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-presage-cocktail-time"
+ },
+ {
+  "brand": "IWC",
+  "model": "Pilot's Watch Mark XX",
+  "references": [
+   "IW328201"
+  ],
+  "launch_year": "2022",
+  "case": "40 mm stainless steel",
+  "movement": "IWC Calibre 32111, automatic",
+  "power_reserve": "120 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$5,900 (IW328201)",
+  "history": "The Mark XX continues IWC's line of Mark pilot's watches, with a clean cockpit-instrument dial and an automatic movement with a five-day power reserve.",
+  "highlights": [
+   "120-hour power reserve",
+   "Pressure-drop-protected sapphire crystal",
+   "EasX-CHANGE strap system"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-pilots-watch-mark-xx"
+ }
+]
