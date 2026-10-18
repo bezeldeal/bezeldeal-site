@@ -1,0 +1,3 @@
+(function(){var q=document.getElementById('q'),items=[].slice.call(document.querySelectorAll('.item')),chips=[].slice.call(document.querySelectorAll('.chip')),c=document.getElementById('count'),b='';
+function run(){var t=q.value.trim().toLowerCase().split(/\s+/),n=0;items.forEach(function(e){var ok=(!b||e.dataset.b===b)&&t.every(function(w){return e.dataset.s.indexOf(w)>-1});e.hidden=!ok;if(ok)n++});c.textContent=n+' watch'+(n==1?'':'es');}
+q.addEventListener('input',run);chips.forEach(function(ch){ch.addEventListener('click',function(){b=ch.dataset.b;chips.forEach(function(x){x.classList.toggle('on',x===ch)});run()})});run();})();
