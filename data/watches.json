@@ -162,6 +162,7 @@
   "brand": "Omega",
   "model": "Seamaster Diver 300M",
   "references": [
+   "210.30.42.20.03.001",
    "210.30.42.20.01.001"
   ],
   "launch_year": "1993",
@@ -169,7 +170,7 @@
   "movement": "Calibre 8800, automatic (Master Chronometer)",
   "power_reserve": "55 hours",
   "water_resistance": "300 m",
-  "us_retail_price": "$6,700 (steel bracelet); $6,300 (rubber)",
+  "us_retail_price": "$6,700 (steel bracelet; blue .03.001 or black .01.001)",
   "history": "Launched in 1993, the Diver 300M became famous as James Bond's watch from GoldenEye (1995) onward.",
   "highlights": [
    "Laser-engraved wave dial",
@@ -251,11 +252,13 @@
   "brand": "Tudor",
   "model": "Black Bay 58",
   "references": [
-   "M7939A1A0RU-0001"
+   "M7939A1A0NU-0001",
+   "M7939A1A0RU-0001",
+   "M79030N-0001"
   ],
   "launch_year": "2018",
   "case": "39 mm stainless steel",
-  "movement": "Calibre MT5400-U, automatic (COSC + METAS)",
+  "movement": "Calibre MT5400-U, automatic (COSC + METAS Master Chronometer); previous M79030N: MT5402",
   "power_reserve": "65 hours",
   "water_resistance": "200 m",
   "us_retail_price": "From $4,975 (rubber); $5,225–$5,350 on bracelet",
@@ -781,7 +784,7 @@
   "brand": "Breitling",
   "model": "Chronomat B01 42",
   "references": [
-   "AB0134"
+   "AB0134101B1A1"
   ],
   "launch_year": "1984 (modern Chronomat)",
   "case": "42 mm stainless steel",
