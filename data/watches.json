@@ -34,7 +34,7 @@
   "movement": "Calibre 3285, automatic",
   "power_reserve": "70 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$12,000 (126710BLNR / GRNR on Jubilee)",
+  "us_retail_price": "$11,800 (126710BLNR-0003 and 126710GRNR-0004, Oyster bracelet)",
   "history": "Launched in 1955 for airline pilots, including those of Pan Am, the GMT-Master tracked a second time zone with a 24-hour hand and two-tone bezel.",
   "highlights": [
    "Independently adjustable hour hand",
@@ -56,14 +56,14 @@
   "movement": "Calibre 4131, automatic chronograph",
   "power_reserve": "72 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$16,900 (126500LN)",
+  "us_retail_price": "$16,900 (126500LN-0001)",
   "history": "Launched in 1963 and named for Daytona Beach racing, the Cosmograph is Rolex's chronograph with a tachymeter bezel for measuring average speed.",
   "highlights": [
    "Black Cerachrom tachymeter bezel",
    "Screw-down chronograph pushers",
    "In-house chronograph movement"
   ],
-  "fun_fact": "Paul Newman's own Daytona (ref. 6239) sold for $17,752,500 at Phillips in October 2017.",
+  "fun_fact": "",
   "image": "",
   "slug": "rolex-cosmograph-daytona"
  },
@@ -79,7 +79,7 @@
   "movement": "Calibre 3235, automatic",
   "power_reserve": "70 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$8,950 (126300)",
+  "us_retail_price": "$8,950 (126300-0001); $11,650 (126334-0001, white gold bezel)",
   "history": "Launched in 1945 for Rolex's 40th anniversary, the Datejust was the first self-winding chronometer wristwatch to show the date in a window at 3 o'clock.",
   "highlights": [
    "Cyclops magnifying lens over the date",
@@ -92,7 +92,7 @@
  },
  {
   "brand": "Rolex",
-  "model": "Explorer",
+  "model": "Explorer (36 mm)",
   "references": [
    "124270"
   ],
@@ -116,22 +116,22 @@
   "brand": "Rolex",
   "model": "Oyster Perpetual 41",
   "references": [
-   "124300 (2020-2025)",
-   "current OP 41"
+   "134300 (current, 2025)",
+   "124300 (previous)"
   ],
   "launch_year": "1926 (Oyster case)",
   "case": "41 mm Oystersteel",
   "movement": "Calibre 3230, automatic",
   "power_reserve": "70 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$7,050 (current OP 41, Oystersteel)",
+  "us_retail_price": "$7,050 (134300-0001, Oystersteel)",
   "history": "The Oyster Perpetual descends from the 1926 Oyster, marketed as the first waterproof wristwatch case, and the 1931 Perpetual rotor.",
   "highlights": [
    "Wide range of coloured dials",
    "Simple time-only layout",
    "Oyster bracelet with Oysterclasp"
   ],
-  "fun_fact": "In 1927 swimmer Mercedes Gleitze wore a Rolex Oyster for more than 10 hours during a Channel swim, and it kept working.",
+  "fun_fact": "Rolex sponsored swimmer Mercedes Gleitze, the first British woman to swim the English Channel, as one of its early ambassadors.",
   "image": "",
   "slug": "rolex-oyster-perpetual-41"
  },
@@ -185,22 +185,22 @@
   "brand": "Omega",
   "model": "Seamaster Aqua Terra 150M",
   "references": [
-   "220.10.41.21.01.001",
-   "220.10.41.21.10.001"
+   "220.10.41.21.01.002 (current)",
+   "220.10.41.21.01.001 (discontinued)"
   ],
   "launch_year": "2002",
   "case": "41 mm stainless steel",
   "movement": "Calibre 8900, automatic (Master Chronometer)",
   "power_reserve": "60 hours",
   "water_resistance": "150 m",
-  "us_retail_price": "$7,400 (41 mm steel on steel, Omega US)",
+  "us_retail_price": "$7,400 (220.10.41.21.01.002, 41 mm steel on steel)",
   "history": "The Aqua Terra arrived in 2002 as the dressier, everyday member of the Seamaster family.",
   "highlights": [
-   "Teak-pattern dial with vertical lines",
-   "Co-axial Master Chronometer movement",
-   "Display caseback"
+   "Co-Axial Master Chronometer Calibre 8900",
+   "150 m water resistance",
+   "Date at 6 o'clock"
   ],
-  "fun_fact": "The 'teak concept' dial, introduced in 2008, evokes the wooden decks of luxury yachts.",
+  "fun_fact": "",
   "image": "../img/omega-aqua-terra-220.webp",
   "slug": "omega-seamaster-aqua-terra-150m"
  },
@@ -215,7 +215,7 @@
   "movement": "Calibre 8900, automatic (Master Chronometer)",
   "power_reserve": "60 hours",
   "water_resistance": "600 m",
-  "us_retail_price": "",
+  "us_retail_price": "Discontinued ref.; current Planet Ocean models $8,600–$9,200 on Omega US",
   "history": "The Planet Ocean joined the Seamaster line in 2005 as Omega's heavier-duty professional dive watch.",
   "highlights": [
    "600 m water resistance",
@@ -244,7 +244,7 @@
    "Burgundy aluminium bezel",
    "METAS-certified Master Chronometer"
   ],
-  "fun_fact": "Tudor's name was registered in 1926 by Rolex founder Hans Wilsdorf.",
+  "fun_fact": "Montres Tudor SA has made Tudor watches since 6 March 1946. Rolex founder Hans Wilsdorf conceived Tudor so authorized Rolex dealers could sell a watch with Rolex-like reliability at a lower price.",
   "image": "../img/tudor-black-bay-m7941.webp",
   "slug": "tudor-black-bay-41"
  },
@@ -298,7 +298,7 @@
   "brand": "Tudor",
   "model": "Pelagos 39",
   "references": [
-   "25407N"
+   "M25407N-0001"
   ],
   "launch_year": "2022",
   "case": "39 mm titanium",
@@ -342,14 +342,15 @@
   "brand": "Seiko",
   "model": "Prospex Alpinist",
   "references": [
-   "SPB121"
+   "SPB121 (discontinued)",
+   "SPB507 (current)"
   ],
   "launch_year": "1959 (Alpinist)",
   "case": "39.5 mm stainless steel",
-  "movement": "Calibre 6R35, automatic",
-  "power_reserve": "70 hours",
+  "movement": "Calibre 6R35, automatic (SPB121); 6R55 (SPB507)",
+  "power_reserve": "About 70 hours (SPB121); about 72 hours (SPB507)",
   "water_resistance": "200 m",
-  "us_retail_price": "",
+  "us_retail_price": "$900 (current SPB507, Seiko US)",
   "history": "Seiko's Laurel Alpinist launched in 1959 for Japan's mountaineering boom.",
   "highlights": [
    "Internal rotating compass bezel",
@@ -364,7 +365,7 @@
   "brand": "Seiko",
   "model": "Prospex 'Turtle'",
   "references": [
-   "SRPE93"
+   "SRPE93K1"
   ],
   "launch_year": "1976 (original 6309)",
   "case": "45 mm stainless steel",
@@ -393,12 +394,12 @@
   "movement": "Calibre 1847 MC, automatic",
   "power_reserve": "Approx. 40 hours (Cartier)",
   "water_resistance": "100 m",
-  "us_retail_price": "$7,750 (medium, steel)",
+  "us_retail_price": "$8,400 (WSSA0029, medium, steel, Cartier US)",
   "history": "Louis Cartier created the Santos in 1904 for aviator Alberto Santos-Dumont, who needed to read the time in flight.",
   "highlights": [
-   "QuickSwitch bracelet change",
-   "SmartLink sizing",
-   "Exposed screw bezel"
+   "Square case with exposed screws on the bezel",
+   "Calibre 1847 MC automatic movement",
+   "Water resistant to 100 m"
   ],
   "fun_fact": "It is often described as the first pilot's watch.",
   "image": "",
@@ -408,14 +409,15 @@
   "brand": "Cartier",
   "model": "Tank Must",
   "references": [
-   "WSTA0041"
+   "WSTA0041 (large, leather, discontinued)",
+   "CRWSTA0106 (large, steel bracelet, current)"
   ],
   "launch_year": "1917 (Tank)",
   "case": "33.7 x 25.5 mm steel (large)",
   "movement": "High-autonomy quartz",
   "power_reserve": "",
   "water_resistance": "30 m",
-  "us_retail_price": "",
+  "us_retail_price": "$4,400 (CRWSTA0106, large, steel bracelet, Cartier US); WSTA0041 no longer listed",
   "history": "The Tank prototype of 1917 was inspired by the Renault tanks of the First World War; it entered production in 1919.",
   "highlights": [
    "Rectangular brancards",
@@ -430,14 +432,14 @@
   "brand": "Audemars Piguet",
   "model": "Royal Oak Selfwinding",
   "references": [
-   "15510ST"
+   "15510ST.OO.1320ST.06"
   ],
   "launch_year": "1972",
   "case": "41 mm stainless steel (15510ST)",
   "movement": "Calibre 4302, automatic (15510ST)",
   "power_reserve": "70 hours (15510ST)",
   "water_resistance": "50 m",
-  "us_retail_price": "",
+  "us_retail_price": "$31,900 (15510ST.OO.1320ST.06, AP US site)",
   "history": "Designed by Gérald Genta and launched in 1972, the Royal Oak is the archetypal luxury steel sports watch with an integrated bracelet.",
   "highlights": [
    "Octagonal bezel with eight screws",
@@ -467,7 +469,7 @@
    "Porthole-shaped case with 'ears'",
    "Integrated bracelet"
   ],
-  "fun_fact": "The steel ref. 5711 was discontinued in 2021.",
+  "fun_fact": "",
   "image": "",
   "slug": "patek-philippe-nautilus"
  },
@@ -497,14 +499,14 @@
   "brand": "Breitling",
   "model": "Navitimer B01 Chronograph 43",
   "references": [
-   "AB0138"
+   "AB0138211B1A1"
   ],
   "launch_year": "1952",
   "case": "43 mm stainless steel",
   "movement": "Breitling Manufacture Calibre 01, automatic chronograph",
   "power_reserve": "70 hours",
   "water_resistance": "30 m",
-  "us_retail_price": "$10,300 (strap); $10,700 (bracelet)",
+  "us_retail_price": "$10,700 (AB0138211B1A1, black dial, steel bracelet)",
   "history": "Launched in 1952 for the AOPA, the Navitimer put a circular slide rule on the bezel for pilots' flight calculations.",
   "highlights": [
    "Circular slide rule bezel",
@@ -519,14 +521,14 @@
   "brand": "Breitling",
   "model": "Superocean Heritage B20 Automatic 42",
   "references": [
-   "AB2010"
+   "AB2010121B1A1"
   ],
   "launch_year": "1957 (Superocean)",
   "case": "42 mm stainless steel",
   "movement": "Breitling Calibre B20, automatic",
   "power_reserve": "70 hours",
   "water_resistance": "200 m",
-  "us_retail_price": "$5,800 (rubber); $6,100 (bracelet)",
+  "us_retail_price": "$6,100 (AB2010121B1A1, black, steel bracelet)",
   "history": "The Superocean Heritage revives Breitling's 1957 Superocean dive watch.",
   "highlights": [
    "Mesh bracelet option",
@@ -541,14 +543,14 @@
   "brand": "TAG Heuer",
   "model": "Carrera Chronograph 39 Glassbox",
   "references": [
-   "CBS2210"
+   "CBS2210.FC6534"
   ],
   "launch_year": "1963",
   "case": "39 mm stainless steel",
   "movement": "Calibre TH20-00, automatic chronograph",
   "power_reserve": "80 hours",
   "water_resistance": "",
-  "us_retail_price": "$7,250 (CBS2210.FC6534)",
+  "us_retail_price": "$7,250 (CBS2210.FC6534, dealers' listed retail)",
   "history": "Jack Heuer launched the Carrera in 1963, named after the Carrera Panamericana road race.",
   "highlights": [
    "Domed 'Glassbox' sapphire crystal",
@@ -570,7 +572,7 @@
   "movement": "Calibre TH20-00 (Heuer 02 family), automatic chronograph",
   "power_reserve": "80 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$8,300 (CBL2111.FC6453)",
+  "us_retail_price": "$8,300 (CBL2111.FC6453, dealers' listed retail)",
   "history": "Launched in 1969 with the Calibre 11, the Monaco was the first water-resistant square-cased automatic chronograph.",
   "highlights": [
    "Square case",
@@ -587,7 +589,7 @@
   "references": [
    "IW371605"
   ],
-  "launch_year": "1939",
+  "launch_year": "1939 (Portugieser line); chronograph since 1998",
   "case": "41 mm stainless steel",
   "movement": "Calibre 69355, automatic chronograph",
   "power_reserve": "46 hours",
@@ -614,7 +616,7 @@
   "movement": "El Primero 3600, automatic chronograph",
   "power_reserve": "60 hours",
   "water_resistance": "100 m",
-  "us_retail_price": "$12,300",
+  "us_retail_price": "$12,300 (03.3100.3600/69.M3100, dealers' listed retail)",
   "history": "Launched in 2021, the Chronomaster Sport uses the El Primero, introduced in 1969 as one of the first automatic chronographs.",
   "highlights": [
    "1/10th-second chronograph",
@@ -629,8 +631,7 @@
   "brand": "Jaeger-LeCoultre",
   "model": "Reverso Tribute Small Seconds",
   "references": [
-   "Q397848J",
-   "Q3978480"
+   "Q397848J"
   ],
   "launch_year": "1931",
   "case": "45.6 x 27.4 mm stainless steel",
@@ -652,21 +653,22 @@
   "brand": "Panerai",
   "model": "Luminor Marina",
   "references": [
-   "PAM01312"
+   "PAM01312 (previous)",
+   "PAM03312 (current)"
   ],
-  "launch_year": "1949 (design)",
+  "launch_year": "Crown-protecting device patent requested 1955 (per Panerai)",
   "case": "44 mm stainless steel",
   "movement": "Calibre P.9010, automatic",
   "power_reserve": "3 days",
   "water_resistance": "300 m",
-  "us_retail_price": "$8,800",
+  "us_retail_price": "$9,500 (PAM03312, Panerai US); PAM01312 replaced",
   "history": "Panerai supplied instruments to the Italian Navy; the Luminor takes its name from its luminous material, and its 1949 design introduced the crown-protecting bridge.",
   "highlights": [
    "Crown-protecting bridge",
    "Sandwich dial",
    "Small seconds at 9 o'clock"
   ],
-  "fun_fact": "Sylvester Stallone wore a Luminor in Daylight (1996), raising Panerai's profile just before Vendôme acquired it in 1997.",
+  "fun_fact": "Sylvester Stallone wore a Luminor in the 1996 film Daylight.",
   "image": "",
   "slug": "panerai-luminor-marina"
  },
@@ -710,7 +712,7 @@
    "Military-style 24-hour dial",
    "Matte steel case"
   ],
-  "fun_fact": "",
+  "fun_fact": "Hamilton says the Khaki Field Mechanical 38 mm was featured in Sonic the Hedgehog (2020), worn by Sheriff Tom Wachowski, played by James Marsden.",
   "image": "",
   "slug": "hamilton-khaki-field-mechanical"
  },
@@ -742,12 +744,12 @@
   "references": [
    "01 400 7769 4135-07 8 22 09PEB"
   ],
-  "launch_year": "",
+  "launch_year": "2020 (Calibre 400)",
   "case": "41.5 mm stainless steel",
   "movement": "Oris Calibre 400, automatic",
   "power_reserve": "120 hours",
   "water_resistance": "300 m",
-  "us_retail_price": "$3,900",
+  "us_retail_price": "$3,900 (Oris US)",
   "history": "Oris introduced its in-house Calibre 400 in 2020 and fitted it to the Aquis diver.",
   "highlights": [
    "5-day power reserve",
@@ -833,9 +835,9 @@
   "launch_year": "1996",
   "case": "41 mm stainless steel",
   "movement": "Calibre 5100, automatic",
-  "power_reserve": "60 hours",
+  "power_reserve": "About 60 hours",
   "water_resistance": "150 m",
-  "us_retail_price": "",
+  "us_retail_price": "$29,200 (4520V/210A-B128)",
   "history": "Introduced in 1996, the Overseas is Vacheron Constantin's luxury sports line, with a bezel inspired by the Maltese cross.",
   "highlights": [
    "Tool-free interchangeable straps",
@@ -857,7 +859,7 @@
   "movement": "Calibre 4R35, automatic",
   "power_reserve": "41 hours",
   "water_resistance": "50 m",
-  "us_retail_price": "",
+  "us_retail_price": "$450 (SRPB43J1, Seiko US)",
   "history": "Cocktail Time began in 2010 as a collaboration with Tokyo bartender Shinobu Ishigaki of Bar Ishinohana, whose cocktails inspired the sunburst dials.",
   "highlights": [
    "Sunburst dial",
@@ -889,5 +891,1369 @@
   "fun_fact": "",
   "image": "",
   "slug": "iwc-pilots-watch-mark-xx"
+ },
+ {
+  "brand": "Omega",
+  "model": "Constellation 41",
+  "references": [
+   "131.30.41.21.04.001"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Omega Calibre 8900, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$8,200 (list price per Jomashop & WatchMaxx)",
+  "history": "Omega was founded by Louis Brandt in La Chaux-de-Fonds, Switzerland, in 1848 and took the Omega name in 1903.",
+  "highlights": [
+   "41 mm case",
+   "Co-Axial Master Chronometer movement",
+   "Integrated bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-constellation-41"
+ },
+ {
+  "brand": "Omega",
+  "model": "Speedmaster '57",
+  "references": [
+   "332.10.41.51.01.001"
+  ],
+  "launch_year": "1957",
+  "case": "40.5 mm Stainless Steel",
+  "movement": "Omega Calibre 9906, hand wind",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$10,700 (list price per Jomashop & WatchMaxx)",
+  "history": "Omega introduced the Speedmaster in 1957 as a sport and racing chronograph, the same year it launched the Railmaster and the Seamaster 300.",
+  "highlights": [
+   "Hand-wound co-axial Calibre 9906",
+   "40.5 mm case with straight lugs",
+   "Sapphire crystal and display caseback"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-speedmaster-57"
+ },
+ {
+  "brand": "Omega",
+  "model": "Speedmaster Reduced (Speedmaster Automatic)",
+  "references": [
+   "3510.50.00"
+  ],
+  "launch_year": "1988",
+  "case": "",
+  "movement": "",
+  "power_reserve": null,
+  "water_resistance": null,
+  "us_retail_price": null,
+  "history": "The Speedmaster Automatic, informally called the Speedmaster Reduced, was introduced in 1988 as a smaller, cheaper version of the Speedmaster.",
+  "highlights": [
+   "Smaller-case automatic Speedmaster",
+   "Made 1988 to 2009",
+   "Pre-owned only"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-speedmaster-reduced"
+ },
+ {
+  "brand": "Omega",
+  "model": "Seamaster 300",
+  "references": [
+   "234.30.41.21.01.001"
+  ],
+  "launch_year": "1957",
+  "case": "41 mm Stainless Steel",
+  "movement": "Omega Calibre 8912, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$8,000 (list price per Jomashop & WatchMaxx)",
+  "history": "The Seamaster line dates to 1948. In 1957 Omega added the Seamaster 300, a watch designed for professional divers.",
+  "highlights": [
+   "Unidirectional bezel with black ceramic ring",
+   "Omega Calibre 8912, 60 h",
+   "300 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-seamaster-300-heritage"
+ },
+ {
+  "brand": "Omega",
+  "model": "Speedmaster Dark Side of the Moon",
+  "references": [
+   "311.92.44.51.01.007"
+  ],
+  "launch_year": "2013",
+  "case": "44.25 mm Ceramic",
+  "movement": "Omega Calibre 9300, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$14,400 (list price per Jomashop & WatchMaxx)",
+  "history": "Omega introduced the Dark Side of the Moon sub-collection in 2013, with a ceramic case and a zirconium-oxide ceramic dial.",
+  "highlights": [
+   "Black ceramic case",
+   "Automatic co-axial chronograph",
+   "Ceramic dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-speedmaster-dark-side-of-the-moon"
+ },
+ {
+  "brand": "Omega",
+  "model": "Speedmaster 38",
+  "references": [
+   "324.30.38.50.55.001"
+  ],
+  "launch_year": null,
+  "case": "38 mm Stainless Steel",
+  "movement": "Omega Calibre 3330, automatic",
+  "power_reserve": "About 52 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$7,600 (list price per Jomashop & WatchMaxx)",
+  "history": "Omega was founded by Louis Brandt in La Chaux-de-Fonds, Switzerland, in 1848 and took the Omega name in 1903.",
+  "highlights": [
+   "38 mm case",
+   "Automatic chronograph",
+   "Speedmaster tachymeter styling"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "omega-speedmaster-38"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Ranger",
+  "references": [
+   "M79950-0001"
+  ],
+  "launch_year": null,
+  "case": "39 mm steel",
+  "movement": "Manufacture Calibre MT5402 (COSC), self-winding",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$4,025 (m79950-0001, per Tudor)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "39 mm steel case",
+   "Manufacture Calibre MT5402 (COSC), ~70 h",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-ranger"
+ },
+ {
+  "brand": "Tudor",
+  "model": "1926",
+  "references": [
+   "M91650-0001"
+  ],
+  "launch_year": null,
+  "case": "41 mm steel",
+  "movement": "Calibre T601, self-winding",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$2,650 (m91650-0001, per Tudor)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf. The 1926 line is named after that year.",
+  "highlights": [
+   "Calibre T601 automatic, ~38 h",
+   "41 mm steel case",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-1926"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay GMT",
+  "references": [
+   "M79830RB-0001"
+  ],
+  "launch_year": null,
+  "case": "41 mm steel",
+  "movement": "Manufacture Calibre MT5652 (GMT), self-winding",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,275 (m79830rb-0001, per Tudor)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "Matte blue/burgundy 24-hour bezel",
+   "Manufacture Calibre MT5652 GMT, ~70 h",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-black-bay-gmt"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay 54",
+  "references": [
+   "M79000N-0001"
+  ],
+  "launch_year": "2023",
+  "case": "37 mm steel",
+  "movement": "Manufacture Calibre MT5400, self-winding",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$4,725 (m79000n-0001, per Tudor)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "37 mm steel case",
+   "Manufacture Calibre MT5400, ~70 h",
+   "T-fit clasp"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-black-bay-54"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay Chrono",
+  "references": [
+   "M79360N-0001"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Tudor Calibre MT5813, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,950 (list price per Jomashop & WatchMaxx)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "Calibre MT5813 (B01-based), 70 h",
+   "41 mm steel case",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-black-bay-chrono"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Black Bay 58 GMT",
+  "references": [
+   "M7939G1A0NRU-0001"
+  ],
+  "launch_year": null,
+  "case": "39 mm Stainless Steel",
+  "movement": "Tudor Calibre MT5450-U, automatic",
+  "power_reserve": "About 65 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$5,525 (list price per Jomashop & WatchMaxx)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "39 mm case",
+   "GMT function",
+   "'Coke' red/black bezel"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-black-bay-58-gmt"
+ },
+ {
+  "brand": "Longines",
+  "model": "Legend Diver",
+  "references": [
+   "L3.774.4.90.2"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Longines Calibre L888, automatic",
+  "power_reserve": "About 64 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$2,850 (list price per Jomashop & WatchMaxx)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "Inner rotating bezel",
+   "Automatic movement",
+   "Vintage compressor-style case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-legend-diver"
+ },
+ {
+  "brand": "Longines",
+  "model": "HydroConquest",
+  "references": [
+   "L37814566"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Longines Calibre L888, automatic",
+  "power_reserve": "About 64 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$2,000 (list price per Jomashop & WatchMaxx)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "41 mm steel case",
+   "Ceramic bezel insert",
+   "Automatic movement"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-hydroconquest"
+ },
+ {
+  "brand": "Longines",
+  "model": "Master Collection",
+  "references": [
+   "L27934783"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Longines Calibre L619/888, automatic",
+  "power_reserve": "About 42 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$2,550 (list price per Jomashop & WatchMaxx)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "40 mm steel case",
+   "Automatic movement",
+   "Silver dial, brown leather strap"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-master-collection"
+ },
+ {
+  "brand": "Longines",
+  "model": "Master Collection Moonphase",
+  "references": [
+   "L29094783"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "automatic",
+  "power_reserve": null,
+  "water_resistance": "30 m",
+  "us_retail_price": "$3,000 (list price per Jomashop & WatchMaxx)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "Moonphase display",
+   "Automatic movement",
+   "Silver dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-master-collection-moonphase"
+ },
+ {
+  "brand": "Longines",
+  "model": "Spirit",
+  "references": [
+   "L3.810.4.53.6"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Longines Calibre L888.4, automatic",
+  "power_reserve": "About 64 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$2,550 (list price per Jomashop)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "Automatic movement",
+   "Pilot-style dial",
+   "Steel case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-spirit"
+ },
+ {
+  "brand": "Longines",
+  "model": "Conquest",
+  "references": [
+   "L3.720.4.52.6"
+  ],
+  "launch_year": null,
+  "case": "38 mm Stainless Steel",
+  "movement": "Longines Calibre L888, automatic",
+  "power_reserve": "About 64 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$2,400 (list price per Jomashop & WatchMaxx)",
+  "history": "Longines was founded in Saint-Imier, Switzerland, in 1832 by Auguste Agassiz; its winged-hourglass logo, registered in 1889, is the oldest unchanged active trademark registered with WIPO.",
+  "highlights": [
+   "Automatic movement",
+   "Black dial",
+   "Steel bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "longines-conquest"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Aquaracer Professional 300",
+  "references": [
+   "WBP201B.BA0632"
+  ],
+  "launch_year": null,
+  "case": "",
+  "movement": "",
+  "power_reserve": null,
+  "water_resistance": null,
+  "us_retail_price": "$4,100 (list price per WatchMaxx)",
+  "history": "Heuer was founded by Edouard Heuer in St-Imier in 1860; TAG Heuer's current lines include Formula 1, Aquaracer, Carrera and Monaco.",
+  "highlights": [
+   "300 m water resistance",
+   "Automatic movement",
+   "Blue dial, steel bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tag-heuer-aquaracer-professional-300"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Formula 1",
+  "references": [
+   "WAZ1110.BA0875"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Quartz (per WatchMaxx)",
+  "power_reserve": null,
+  "water_resistance": "200 m",
+  "us_retail_price": "$2,050 (list price per Jomashop & WatchMaxx)",
+  "history": "Heuer was founded by Edouard Heuer in St-Imier in 1860; TAG Heuer's current lines include Formula 1, Aquaracer, Carrera and Monaco.",
+  "highlights": [
+   "Quartz movement",
+   "Black dial",
+   "Steel bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tag-heuer-formula-1"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Carrera Date (Calibre 5)",
+  "references": [
+   "WBN2110-BA0639"
+  ],
+  "launch_year": "1963",
+  "case": "39 mm Stainless Steel",
+  "movement": "Tag Heuer Calibre 5, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$3,700 (list price per Jomashop & WatchMaxx)",
+  "history": "Heuer was founded by Edouard Heuer in St-Imier in 1860; TAG Heuer's current lines include Formula 1, Aquaracer, Carrera and Monaco.",
+  "highlights": [
+   "Automatic movement",
+   "Date",
+   "Black dial, steel bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tag-heuer-carrera-calibre-5"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Carrera 36",
+  "references": [
+   "WBN2316.BA0001"
+  ],
+  "launch_year": null,
+  "case": "36 mm Stainless Steel",
+  "movement": "Tag Heuer Calibre 7, automatic",
+  "power_reserve": "About 50 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$3,700 (list price per Jomashop & WatchMaxx)",
+  "history": "Heuer was founded by Edouard Heuer in St-Imier in 1860; TAG Heuer's current lines include Formula 1, Aquaracer, Carrera and Monaco.",
+  "highlights": [
+   "36 mm case",
+   "Automatic movement",
+   "Blue dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tag-heuer-carrera-36"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Navitimer Automatic 41",
+  "references": [
+   "A17329161C1A1"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Breitling Calibre 17, automatic",
+  "power_reserve": "About 42 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$6,150 (list price per Jomashop & WatchMaxx)",
+  "history": "Breitling was founded by Léon Breitling in Saint-Imier in 1884, and is best known for aviation (Navitimer) and diving (Superocean) watches.",
+  "highlights": [
+   "Slide-rule bezel",
+   "41 mm case",
+   "Automatic movement"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-navitimer-automatic-41"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Premier B01 Chronograph 42",
+  "references": [
+   "AB0145221B1A1"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Breitling Calibre B01, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$10,150 (list price per Jomashop & WatchMaxx)",
+  "history": "Breitling was founded by Léon Breitling in Saint-Imier in 1884, and is best known for aviation (Navitimer) and diving (Superocean) watches.",
+  "highlights": [
+   "Breitling B01 chronograph",
+   "42 mm case",
+   "Black dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-premier-b01-chronograph-42"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Avenger Automatic 42",
+  "references": [
+   "A17328101B1A1"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Breitling Calibre 17, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$5,200 (list price per Jomashop & WatchMaxx)",
+  "history": "Breitling was founded by Léon Breitling in Saint-Imier in 1884, and is best known for aviation (Navitimer) and diving (Superocean) watches.",
+  "highlights": [
+   "42 mm case",
+   "Automatic movement",
+   "Black dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-avenger"
+ },
+ {
+  "brand": "Breitling",
+  "model": "Superocean Automatic 42",
+  "references": [
+   "A17375211B1S1"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Breitling Calibre 17, automatic",
+  "power_reserve": "About 42 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$5,700 (list price per Jomashop & WatchMaxx)",
+  "history": "Breitling was founded by Léon Breitling in Saint-Imier in 1884, and is best known for aviation (Navitimer) and diving (Superocean) watches.",
+  "highlights": [
+   "42 mm case",
+   "Automatic chronometer",
+   "Diver's bezel"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "breitling-superocean-automatic-42"
+ },
+ {
+  "brand": "IWC",
+  "model": "Big Pilot's Watch 43",
+  "references": [
+   "IW329303"
+  ],
+  "launch_year": "1940",
+  "case": "43 mm Stainless Steel",
+  "movement": "IWC Calibre 82100, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$10,000 (list price per Jomashop & WatchMaxx)",
+  "history": "IWC was founded in Schaffhausen in 1868 by American watchmaker Florentine Ariosto Jones and has belonged to Richemont since 2000.",
+  "highlights": [
+   "43 mm case",
+   "Automatic movement",
+   "Large onion crown"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-big-pilot"
+ },
+ {
+  "brand": "IWC",
+  "model": "Portofino Automatic",
+  "references": [
+   "IW356517"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "IWC Calibre 35111, automatic",
+  "power_reserve": "About 42 hours",
+  "water_resistance": "30 m",
+  "us_retail_price": "$5,400 (list price per Jomashop & WatchMaxx)",
+  "history": "IWC was founded in Schaffhausen in 1868 by American watchmaker Florentine Ariosto Jones and has belonged to Richemont since 2000.",
+  "highlights": [
+   "Automatic movement",
+   "Silver-plated dial",
+   "Steel case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-portofino-automatic"
+ },
+ {
+  "brand": "IWC",
+  "model": "Pilot's Watch Chronograph 41",
+  "references": [
+   "IW388103"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "IWC Calibre 69385, automatic",
+  "power_reserve": "About 46 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$7,800 (list price per Jomashop & WatchMaxx)",
+  "history": "IWC was founded in Schaffhausen in 1868 by American watchmaker Florentine Ariosto Jones and has belonged to Richemont since 2000.",
+  "highlights": [
+   "41 mm case",
+   "Automatic chronograph",
+   "Green dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-pilots-watch-chronograph-41"
+ },
+ {
+  "brand": "IWC",
+  "model": "Aquatimer Automatic",
+  "references": [
+   "IW328801"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "IWC Calibre 32111, automatic",
+  "power_reserve": null,
+  "water_resistance": "300 m",
+  "us_retail_price": "$6,900 (list price per Jomashop & WatchMaxx)",
+  "history": "IWC was founded in Schaffhausen in 1868 by American watchmaker Florentine Ariosto Jones and has belonged to Richemont since 2000.",
+  "highlights": [
+   "42 mm Stainless Steel case",
+   "IWC Calibre 32111",
+   "300 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "iwc-aquatimer-automatic"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Pasha de Cartier",
+  "references": [
+   "WSPA0009"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Cartier Calibre 1847 MC, automatic",
+  "power_reserve": "About 42 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$8,100 (lowest list price shown by Jomashop/WatchMaxx)",
+  "history": "Cartier was founded in Paris in 1847 by Louis-François Cartier.",
+  "highlights": [
+   "41 mm steel case",
+   "Automatic movement",
+   "Silver dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "cartier-pasha"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Santos-Dumont",
+  "references": [
+   "WSSA0085"
+  ],
+  "launch_year": "1904",
+  "case": "43.5 mm x 31.4 mm Stainless Steel",
+  "movement": "Quartz (per Jomashop)",
+  "power_reserve": null,
+  "water_resistance": "30 m",
+  "us_retail_price": "$5,250 (list price per Jomashop)",
+  "history": "Cartier was founded in Paris in 1847 by Louis-François Cartier.",
+  "highlights": [
+   "Large Model case",
+   "Quartz movement",
+   "Thin, square case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "cartier-santos-dumont"
+ },
+ {
+  "brand": "Zenith",
+  "model": "Defy Skyline",
+  "references": [
+   "03.9300.3620/51.I001"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "El Primero, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$10,000 (list price per Jomashop & WatchMaxx)",
+  "history": "Zenith was founded by Georges Favre-Jacot in Le Locle in 1865; its El Primero, unveiled on January 10, 1969, was the first high-frequency automatic chronograph movement.",
+  "highlights": [
+   "Integrated steel bracelet",
+   "Automatic movement",
+   "Blue dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "zenith-defy-skyline"
+ },
+ {
+  "brand": "Zenith",
+  "model": "Pilot Automatic",
+  "references": [
+   "03.4000.3620/21.I001"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Zenith Calibre El Primero 3620, automatic",
+  "power_reserve": "About 60 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$8,400 (list price per Jomashop & WatchMaxx)",
+  "history": "Zenith was founded by Georges Favre-Jacot in Le Locle in 1865; its El Primero, unveiled on January 10, 1969, was the first high-frequency automatic chronograph movement.",
+  "highlights": [
+   "Automatic movement",
+   "Black dial",
+   "Pilot styling"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "zenith-pilot-automatic"
+ },
+ {
+  "brand": "Grand Seiko",
+  "model": "Evolution 9 'White Birch' SLGH005",
+  "references": [
+   "SLGH005"
+  ],
+  "launch_year": "2021",
+  "case": "40 mm Stainless Steel",
+  "movement": "Grand Seiko Calibre 9SA5, hand wind",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$9,800 (list price per Jomashop)",
+  "history": "Grand Seiko began in December 1960 as Seiko's highest-grade domestic line, and adopted Spring Drive in 2004 with the Calibre 9R65.",
+  "highlights": [
+   "Calibre 9SA5",
+   "2021 GPHG Men's Watch Prize",
+   "White birch-bark textured dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "grand-seiko-slgh005"
+ },
+ {
+  "brand": "Grand Seiko",
+  "model": "Heritage SBGA465",
+  "references": [
+   "SBGA465"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Seiko Calibre 9R65, automatic",
+  "power_reserve": "About 72 hours",
+  "water_resistance": null,
+  "us_retail_price": "$4,800 (list price per Jomashop)",
+  "history": "Grand Seiko began in December 1960 as Seiko's highest-grade domestic line, and adopted Spring Drive in 2004 with the Calibre 9R65.",
+  "highlights": [
+   "Heritage collection",
+   "White dial",
+   "Steel case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "grand-seiko-sbga465"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Jazzmaster Open Heart",
+  "references": [
+   "H32705731"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Hamilton Calibre H-10, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$1,245 (list price per Jomashop & WatchMaxx)",
+  "history": "Hamilton was founded in 1892 in Lancaster, Pennsylvania, and moved manufacturing to Switzerland after 1969.",
+  "highlights": [
+   "Open-heart dial",
+   "Automatic movement",
+   "Steel case"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-jazzmaster"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Khaki Aviation Pilot Day Date",
+  "references": [
+   "H64615135"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Hamilton Calibre H-40, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$1,125 (list price per Jomashop & WatchMaxx)",
+  "history": "Hamilton was founded in 1892 in Lancaster, Pennsylvania, and moved manufacturing to Switzerland after 1969.",
+  "highlights": [
+   "Day and date",
+   "Automatic movement",
+   "Black pilot dial"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-khaki-aviation-pilot-day-date"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Khaki Field Murph",
+  "references": [
+   "H70605731"
+  ],
+  "launch_year": "2014",
+  "case": "42 mm Stainless Steel",
+  "movement": "Hamilton Calibre H-10, automatic",
+  "power_reserve": null,
+  "water_resistance": "100 m",
+  "us_retail_price": "$1,095 (list price per Jomashop & WatchMaxx)",
+  "history": "Hamilton was founded in 1892 in Lancaster, Pennsylvania, and moved manufacturing to Switzerland after 1969.",
+  "highlights": [
+   "Automatic movement",
+   "Black dial",
+   "Field-watch styling"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-khaki-field-murph"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Khaki Navy Scuba",
+  "references": [
+   "H82505140"
+  ],
+  "launch_year": null,
+  "case": "43 mm Stainless Steel",
+  "movement": "Hamilton Calibre H-10, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$1,225 (list price per Jomashop & WatchMaxx)",
+  "history": "Hamilton was founded in 1892 in Lancaster, Pennsylvania, and moved manufacturing to Switzerland after 1969.",
+  "highlights": [
+   "Automatic movement",
+   "Blue dial",
+   "Rotating diver's bezel"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-khaki-navy-scuba"
+ },
+ {
+  "brand": "Hamilton",
+  "model": "Khaki Field Expedition",
+  "references": [
+   "H70315130"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Hamilton Calibre H-10, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$1,245 (list price per Jomashop & WatchMaxx)",
+  "history": "Hamilton was founded in 1892 in Lancaster, Pennsylvania, and moved manufacturing to Switzerland after 1969.",
+  "highlights": [
+   "Automatic movement",
+   "Black dial",
+   "Field styling"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "hamilton-khaki-field-expedition"
+ },
+ {
+  "brand": "Oris",
+  "model": "Big Crown Pointer Date",
+  "references": [
+   "01 754 7798 4069-07 8 20 06"
+  ],
+  "launch_year": "1938",
+  "case": "40 mm Stainless Steel",
+  "movement": "Oris Calibre 754, base SW 200-1, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$2,400 (list price per Jomashop)",
+  "history": "Oris was founded in 1904 in Hölstein, Switzerland, by Paul Cattin and Georges Christian.",
+  "highlights": [
+   "40 mm Stainless Steel case",
+   "Oris Calibre 754",
+   "50 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "oris-big-crown-pointer-date"
+ },
+ {
+  "brand": "Oris",
+  "model": "Divers Sixty-Five",
+  "references": [
+   "01 733 7771 3154-07 8 19 15"
+  ],
+  "launch_year": "2015",
+  "case": "38 mm Stainless Steel",
+  "movement": "Oris Calibre 733, base SW 200-1, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$3,400 (list price per Jomashop)",
+  "history": "Oris was founded in 1904 in Hölstein, Switzerland, by Paul Cattin and Georges Christian.",
+  "highlights": [
+   "38 mm Stainless Steel case",
+   "Oris Calibre 733",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "oris-divers-sixty-five"
+ },
+ {
+  "brand": "Oris",
+  "model": "ProPilot X Calibre 400",
+  "references": [
+   "01 400 7778 7155-07 7 20 01TLC"
+  ],
+  "launch_year": null,
+  "case": "39 mm Titanium",
+  "movement": "Oris Calibre 400, automatic",
+  "power_reserve": "About 120 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$4,800 (list price per Jomashop)",
+  "history": "Oris was founded in 1904 in Hölstein, Switzerland, by Paul Cattin and Georges Christian.",
+  "highlights": [
+   "39 mm Titanium case",
+   "Oris Calibre 400",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "oris-propilot-x"
+ },
+ {
+  "brand": "Oris",
+  "model": "Big Crown ProPilot Date",
+  "references": [
+   "01 751 7761 4065-07 8 20 08P"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Oris Calibre 751, base SW 220-1, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$2,600 (list price per Jomashop)",
+  "history": "Oris was founded in 1904 in Hölstein, Switzerland, by Paul Cattin and Georges Christian.",
+  "highlights": [
+   "41 mm Stainless Steel case",
+   "Oris Calibre 751",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "oris-big-crown-propilot-date"
+ },
+ {
+  "brand": "Panerai",
+  "model": "Submersible 42 mm",
+  "references": [
+   "PAM01590"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "Panerai Calibre P.900, automatic",
+  "power_reserve": "About 72 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$10,200 (list price per Jomashop)",
+  "history": "Giovanni Panerai opened his first watch shop in Florence in 1860, and Panerai became an official supplier of precision instruments to the Royal Italian Navy.",
+  "highlights": [
+   "42 mm Stainless Steel case",
+   "Panerai Calibre P.900",
+   "300 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "panerai-submersible"
+ },
+ {
+  "brand": "Jaeger-LeCoultre",
+  "model": "Master Control Date",
+  "references": [
+   "Q4018420"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Calibre 899AC, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "50 m",
+  "us_retail_price": "$10,400 (list price per Jomashop)",
+  "history": "Jaeger-LeCoultre was founded by Antoine LeCoultre in 1833 and is based in Le Sentier, Switzerland.",
+  "highlights": [
+   "40 mm Stainless Steel case",
+   "Calibre 899AC",
+   "50 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "jaeger-lecoultre-master-control-date"
+ },
+ {
+  "brand": "Tissot",
+  "model": "Seastar 1000 Powermatic 80",
+  "references": [
+   "T120.407.11.041.03"
+  ],
+  "launch_year": null,
+  "case": "43 mm Stainless Steel",
+  "movement": "POWERMATIC 80.111, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "300 m",
+  "us_retail_price": "$925 (list price per Jomashop & WatchMaxx)",
+  "history": "Tissot was founded in Le Locle, Switzerland, in 1853 by Charles-Félicien Tissot and his son Charles-Émile.",
+  "highlights": [
+   "43 mm Stainless Steel case",
+   "POWERMATIC 80.111",
+   "300 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tissot-seastar-1000"
+ },
+ {
+  "brand": "Tissot",
+  "model": "Gentleman Powermatic 80",
+  "references": [
+   "T127.407.11.041.00"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Powermatic 80.811, automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$950 (list price per Jomashop & WatchMaxx)",
+  "history": "Tissot was founded in Le Locle, Switzerland, in 1853 by Charles-Félicien Tissot and his son Charles-Émile.",
+  "highlights": [
+   "40 mm Stainless Steel case",
+   "Powermatic 80.811",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tissot-gentleman"
+ },
+ {
+  "brand": "Tissot",
+  "model": "PRX Automatic Chronograph",
+  "references": [
+   "T1374271104100"
+  ],
+  "launch_year": "2021",
+  "case": "42 mm Stainless Steel",
+  "movement": "Caliber Valjoux A05.H31, automatic",
+  "power_reserve": null,
+  "water_resistance": "100 m",
+  "us_retail_price": "$2,150 (list price per Jomashop & WatchMaxx)",
+  "history": "Tissot was founded in Le Locle, Switzerland, in 1853 by Charles-Félicien Tissot and his son Charles-Émile.",
+  "highlights": [
+   "42 mm Stainless Steel case",
+   "Caliber Valjoux A05.H31",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tissot-prx-chronograph"
+ },
+ {
+  "brand": "Tissot",
+  "model": "PRX 40 Quartz",
+  "references": [
+   "T137.410.11.041.00"
+  ],
+  "launch_year": "2021",
+  "case": "40 mm Stainless Steel",
+  "movement": "ETA Caliber F06.115, quartz",
+  "power_reserve": null,
+  "water_resistance": "100 m",
+  "us_retail_price": "$450 (list price per Jomashop & WatchMaxx)",
+  "history": "Tissot was founded in Le Locle, Switzerland, in 1853 by Charles-Félicien Tissot and his son Charles-Émile.",
+  "highlights": [
+   "40 mm Stainless Steel case",
+   "ETA Caliber F06.115",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tissot-prx-40-quartz"
+ },
+ {
+  "brand": "Mido",
+  "model": "Ocean Star 200",
+  "references": [
+   "M0264301104100"
+  ],
+  "launch_year": null,
+  "case": "42.5 mm Stainless Steel",
+  "movement": "Mido Calibre Powermatic 80 (ETA C07.621), automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$1,100 (list price per Jomashop & WatchMaxx)",
+  "history": "The Ocean Star M026.430.11.041.00 (WatchMaxx lists it as Ocean Star 200) is a 42.5 mm, 11.75 mm thick diver with the Mido Calibre Powermatic 80 (ETA C07.621), 80-hour power reserve and 200 m water resistance, per Jomashop.",
+  "highlights": [
+   "42.5 mm Stainless Steel case",
+   "Mido Calibre Powermatic 80 (ETA C07.621)",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "mido-ocean-star"
+ },
+ {
+  "brand": "Rado",
+  "model": "Captain Cook Automatic",
+  "references": [
+   "R32505203"
+  ],
+  "launch_year": null,
+  "case": "42 mm Stainless Steel",
+  "movement": "automatic",
+  "power_reserve": "About 80 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$2,500 (list price per Jomashop & WatchMaxx)",
+  "history": "The Captain Cook R32505203 is a 42 mm, 12.1 mm thick steel diver with a blue dial, 80-hour power reserve and 200 m water resistance, per Jomashop.",
+  "highlights": [
+   "42 mm Stainless Steel case",
+   "automatic",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rado-captain-cook"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Prospex Samurai",
+  "references": [
+   "SRPL11"
+  ],
+  "launch_year": null,
+  "case": "41.7 mm Stainless Steel",
+  "movement": "Seiko Caliber 4R35, automatic",
+  "power_reserve": "About 41 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$595 (list price per Jomashop)",
+  "history": "Seiko was founded in Tokyo in 1881 by Kintarō Hattori; it launched Japan's first diver's wristwatch in 1965 and introduced the world's first commercial quartz wristwatch in 1969.",
+  "highlights": [
+   "41.7 mm Stainless Steel case",
+   "Seiko Caliber 4R35",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-prospex-samurai"
+ },
+ {
+  "brand": "Citizen",
+  "model": "Promaster Diver Eco-Drive BN0151-09L",
+  "references": [
+   "BN0151-09L"
+  ],
+  "launch_year": null,
+  "case": "44 mm stainless steel",
+  "movement": "Eco-Drive Caliber E168 (light-powered)",
+  "power_reserve": null,
+  "water_resistance": "200 m",
+  "us_retail_price": "$450 (BN0151-09L, per Citizen)",
+  "history": "Citizen traces its origins to the Shokosha Watch Research Institute, founded in 1918, and began marketing its solar-charging technology under the Eco-Drive name in the mid-1990s.",
+  "highlights": [
+   "Eco-Drive solar, Caliber E168",
+   "44 mm steel case",
+   "200 m, ISO-certified diver"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "citizen-promaster-diver"
+ },
+ {
+  "brand": "Baltic",
+  "model": "Aquascaphe Classic",
+  "references": [
+   "AquaClassicBlue"
+  ],
+  "launch_year": null,
+  "case": "39 mm Stainless Steel",
+  "movement": "Miyota Caliber 9039, automatic",
+  "power_reserve": null,
+  "water_resistance": "200 m",
+  "us_retail_price": "$715 (list price per Jomashop)",
+  "history": "The Aquascaphe Classic Blue checked here is a 39 mm steel diver with a Miyota Caliber 9039 and 200 m water resistance, per Jomashop.",
+  "highlights": [
+   "39 mm Stainless Steel case",
+   "Miyota Caliber 9039",
+   "200 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "baltic-aquascaphe"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Day-Date 40",
+  "references": [
+   "228238"
+  ],
+  "launch_year": "1956",
+  "case": "40 mm 18kt Yellow Gold",
+  "movement": "Rolex Calibre 3255, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$50,400 (m228238-0042, per Rolex)",
+  "history": "Rolex introduced the Day-Date at the Swiss Industries Fair in Basel in 1956. It was the first watch to show both the date and the day of the week spelled in full. Lyndon B. Johnson became the first US president to wear a gold Day-Date.",
+  "highlights": [
+   "40 mm 18kt Yellow Gold case",
+   "Rolex Calibre 3255",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-day-date-40"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Yacht-Master 40",
+  "references": [
+   "126622"
+  ],
+  "launch_year": "1992",
+  "case": "40 mm Oystersteel and Platinum",
+  "movement": "Rolex Calibre 3235, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$13,200 (m126622-0001, per Rolex)",
+  "history": "The Yacht-Master was first introduced in 1992 as reference 16628 in 18-karat yellow gold.",
+  "highlights": [
+   "40 mm Oystersteel and Platinum case",
+   "Rolex Calibre 3235",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-yacht-master-40"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Air-King",
+  "references": [
+   "126900"
+  ],
+  "launch_year": "1945",
+  "case": "40 mm Oystersteel",
+  "movement": "Rolex Calibre 3230, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$8,150 (m126900-0001, per Rolex)",
+  "history": "Introduced in 1945, the Air-King was part of Rolex's post-war aviation-themed watches and is the only model from that series still in production. Rolex re-introduced it in 2018, with a dial inspired by the counter Rolex built for the Bloodhound SSC land-speed car.",
+  "highlights": [
+   "40 mm Oystersteel case",
+   "Rolex Calibre 3230",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-air-king"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Explorer II",
+  "references": [
+   "226570"
+  ],
+  "launch_year": "1971",
+  "case": "42 mm Stainless Steel",
+  "movement": "Rolex Calibre 3285, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$10,600 (m226570-0001, per Rolex)",
+  "history": "Rolex introduced the Explorer II in 1971 with a fixed 24-hour bezel and an independent 24-hour hand to help cave explorers tell day from night.",
+  "highlights": [
+   "42 mm Stainless Steel case",
+   "Rolex Calibre 3285",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-explorer-ii"
+ },
+ {
+  "brand": "Rolex",
+  "model": "Milgauss",
+  "references": [
+   "116400GV"
+  ],
+  "launch_year": "1956",
+  "case": "40 mm Stainless Steel",
+  "movement": "Rolex Calibre 3131, automatic",
+  "power_reserve": "About 48 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": null,
+  "history": "Rolex introduced the Milgauss in 1956 (ref. 6541), brought it back in 2007 as ref. 116400 after nearly 20 years, and discontinued it in 2023.",
+  "highlights": [
+   "40 mm Stainless Steel case",
+   "Rolex Calibre 3131",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-milgauss"
+ },
+ {
+  "brand": "Rolex",
+  "model": "1908",
+  "references": [
+   "52508"
+  ],
+  "launch_year": null,
+  "case": "18 kt yellow gold",
+  "movement": "",
+  "power_reserve": null,
+  "water_resistance": null,
+  "us_retail_price": "$28,850 (m52508-0006, per Rolex)",
+  "history": "The 1908 checked here, m52508-0006, is 18 kt yellow gold with a part-domed, part-fluted bezel, per Rolex.",
+  "highlights": [
+   "18 kt yellow gold",
+   "Domed and fluted bezel",
+   "Dress watch"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "rolex-1908"
  }
 ]
