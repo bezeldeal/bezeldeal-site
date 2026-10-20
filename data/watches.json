@@ -2255,5 +2255,225 @@
   "fun_fact": "",
   "image": "",
   "slug": "rolex-1908"
+ },
+ {
+  "brand": "Tudor",
+  "model": "Royal",
+  "references": [
+   "M28600-0005"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Tudor Calibre T603, automatic",
+  "power_reserve": "About 38 hours",
+  "water_resistance": "100 m",
+  "us_retail_price": "$3,175 (list price per Jomashop & WatchMaxx)",
+  "history": "Tudor says the name 'The Tudor' was first registered as a brand in 1926 on behalf of Rolex founder Hans Wilsdorf.",
+  "highlights": [
+   "41 mm steel case with fluted bezel",
+   "Tudor Calibre T603 automatic, day and date",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tudor-royal"
+ },
+ {
+  "brand": "Grand Seiko",
+  "model": "Elegance SBGW231",
+  "references": [
+   "SBGW231"
+  ],
+  "launch_year": null,
+  "case": "37.3 mm Stainless Steel",
+  "movement": "Grand Seiko Calibre 9S64, manual winding",
+  "power_reserve": "About 72 hours",
+  "water_resistance": null,
+  "us_retail_price": "$4,300 (Grand Seiko US boutique)",
+  "history": "Grand Seiko began in December 1960 as Seiko's highest-grade domestic line, and adopted Spring Drive in 2004 with the Calibre 9R65.",
+  "highlights": [
+   "37.3 mm steel case, 11.6 mm thick",
+   "Hand-wound Calibre 9S64, 72-hour reserve",
+   "Display caseback"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "grand-seiko-sbgw231"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Prospex SPB143",
+  "references": [
+   "SPB143"
+  ],
+  "launch_year": null,
+  "case": "40.5 mm Stainless Steel",
+  "movement": "Seiko Caliber 6R35, automatic",
+  "power_reserve": "About 70 hours",
+  "water_resistance": "200 m",
+  "us_retail_price": "$1,200 (per ShopSeiko)",
+  "history": "Seiko was founded in Tokyo in 1881 by Kintarō Hattori; it launched Japan's first diver's wristwatch in 1965 and introduced the world's first commercial quartz wristwatch in 1969.",
+  "highlights": [
+   "40.5 mm steel case, 13.2 mm thick",
+   "Caliber 6R35 automatic, about 70 hours",
+   "200 m diver's rating"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-prospex-spb143"
+ },
+ {
+  "brand": "Seiko",
+  "model": "Prospex Speedtimer Solar Chronograph",
+  "references": [
+   "SSC813"
+  ],
+  "launch_year": null,
+  "case": "39 mm Stainless Steel",
+  "movement": "Seiko Caliber V192, solar quartz chronograph",
+  "power_reserve": "About 6 months when fully charged",
+  "water_resistance": "100 m",
+  "us_retail_price": "$725 (list price per Jomashop)",
+  "history": "Seiko was founded in Tokyo in 1881 by Kintarō Hattori; it launched Japan's first diver's wristwatch in 1965 and introduced the world's first commercial quartz wristwatch in 1969.",
+  "highlights": [
+   "39 mm steel case",
+   "Solar Caliber V192 chronograph",
+   "Sapphire crystal"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "seiko-prospex-speedtimer"
+ },
+ {
+  "brand": "Bulova",
+  "model": "Lunar Pilot Chronograph",
+  "references": [
+   "96B258"
+  ],
+  "launch_year": null,
+  "case": "45 mm Stainless Steel",
+  "movement": "Quartz chronograph",
+  "power_reserve": null,
+  "water_resistance": "50 m",
+  "us_retail_price": "$675 (list price per Jomashop)",
+  "history": "Bulova is an American timepiece manufacturing company that was founded in 1875 in New York City.",
+  "highlights": [
+   "45 mm steel case",
+   "Quartz chronograph with tachymeter",
+   "Sapphire crystal"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "bulova-lunar-pilot"
+ },
+ {
+  "brand": "Sinn",
+  "model": "556 I",
+  "references": [
+   "556.010"
+  ],
+  "launch_year": null,
+  "case": "38.5 mm Stainless Steel",
+  "movement": "SW200-1, automatic",
+  "power_reserve": null,
+  "water_resistance": "200 m",
+  "us_retail_price": "$1,590 (WatchBuys, Sinn's US importer, strap version)",
+  "history": "Sinn is a German watch manufacturer based in Frankfurt am Main, founded in 1961 by flight instructor and pilot Helmut Sinn.",
+  "highlights": [
+   "38.5 mm steel case, 11 mm thick",
+   "SW200-1 automatic",
+   "200 m water resistance, sapphire front and back"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "sinn-556"
+ },
+ {
+  "brand": "NOMOS Glashütte",
+  "model": "Tangente 38",
+  "references": [
+   "164"
+  ],
+  "launch_year": null,
+  "case": "37.5 mm Stainless Steel",
+  "movement": "NOMOS DUW 4001, manual winding",
+  "power_reserve": "Up to 53 hours",
+  "water_resistance": "5 atm (splash-proof)",
+  "us_retail_price": "$2,530 (list price per Jomashop)",
+  "history": "NOMOS Glashütte is a German watchmaker based in Glashütte, Saxony, founded by Roland Schwertner in January 1990, two months after the fall of the Berlin Wall.",
+  "highlights": [
+   "37.5 mm steel case, 6.8 mm thick",
+   "Hand-wound in-house DUW 4001",
+   "Sapphire display back"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "nomos-tangente"
+ },
+ {
+  "brand": "Cartier",
+  "model": "Tank Française (Small)",
+  "references": [
+   "WSTA0065"
+  ],
+  "launch_year": null,
+  "case": "25.7 x 21.2 mm Steel",
+  "movement": "Quartz",
+  "power_reserve": null,
+  "water_resistance": "30 m",
+  "us_retail_price": "$4,450 (Cartier US)",
+  "history": "Cartier was founded in Paris in 1847 by Louis-François Cartier.",
+  "highlights": [
+   "25.7 x 21.2 mm steel case, 6.8 mm thick",
+   "Quartz movement",
+   "Integrated steel bracelet"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "cartier-tank-francaise"
+ },
+ {
+  "brand": "Jaeger-LeCoultre",
+  "model": "Polaris Automatic",
+  "references": [
+   "Q9008180"
+  ],
+  "launch_year": null,
+  "case": "41 mm Stainless Steel",
+  "movement": "Automatic",
+  "power_reserve": null,
+  "water_resistance": "100 m",
+  "us_retail_price": "$10,500 (list price per Jomashop)",
+  "history": "Jaeger-LeCoultre was founded by Antoine LeCoultre in 1833 and is based in Le Sentier, Switzerland.",
+  "highlights": [
+   "41 mm steel case",
+   "Automatic, display caseback",
+   "100 m water resistance"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "jaeger-lecoultre-polaris"
+ },
+ {
+  "brand": "TAG Heuer",
+  "model": "Aquaracer Professional 200 Solargraph",
+  "references": [
+   "WBP1113.BA0000"
+  ],
+  "launch_year": null,
+  "case": "40 mm Stainless Steel",
+  "movement": "Solar-powered quartz (Solargraph)",
+  "power_reserve": null,
+  "water_resistance": "200 m",
+  "us_retail_price": "$2,800 (list price per Jomashop)",
+  "history": "Heuer was founded in 1860 by Edouard Heuer in St-Imier, Switzerland; in 1985 Techniques d'Avant Garde (TAG) bought a majority stake, forming TAG Heuer.",
+  "highlights": [
+   "40 mm steel case",
+   "Solar-powered quartz",
+   "200 m, unidirectional bezel"
+  ],
+  "fun_fact": "",
+  "image": "",
+  "slug": "tag-heuer-aquaracer-solargraph"
  }
 ]
