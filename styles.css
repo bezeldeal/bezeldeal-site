@@ -130,3 +130,4 @@ html{scroll-padding-top:72px}
 .today-body h3{font-size:1.6rem;margin:.2em 0}
 .today-body .price{font-size:2rem}
 @media(min-width:720px){.today{grid-template-columns:1fr 1.2fr}}
+.tier{font-size:1.3rem;margin:36px 0 14px;padding-bottom:6px;border-bottom:1px solid var(--line)}
